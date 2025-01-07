@@ -1,0 +1,5 @@
+names:
+- probe
+nc: 1
+train: C:\Users\user\Desktop\Fly_Internship\processed_data\train\images
+val: C:\Users\user\Desktop\Fly_Internship\processed_data\val\images
