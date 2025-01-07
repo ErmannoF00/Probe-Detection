@@ -22,8 +22,10 @@ This project implements a deep learning pipeline for detecting ultrasonic thickn
 ### Sample Outputs
 
 - Below are examples of the system's output:
-  - [**Input Image**](probe_dataset/probe_images/E300PREMP00002_00725_216_1flight_11100_2.jpg)
-  - [**Output with Detected Probes**](runs/detect/predict3/E300PREMP00002_00725_216_1flight_11100_2.jpg)
+  - **Input Image:**
+    <img src="probe_dataset/probe_images/E300PREMP00002_00725_216_1flight_11100_2.jpg" alt="Input Image" width="300"/>
+  - **Output with Detected Probes:**
+    <img src="runs/detect/predict3/E300PREMP00002_00725_216_1flight_11100_2.jpg" alt="Output with Detected Probes" width="300"/>
   - **System Metrics:** Losses, Precision, Recall
 
 ---
