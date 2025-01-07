@@ -15,7 +15,7 @@ The dataset consists of:
 
 ## Example Output
 **Input Image:**
-![Input Image](assets/example_input.png)
+![Input Image](probe_dataset/probe_images/E300PREMP00002_00725_216_1flight_11100_2.jpg)
 
 **Output with Detected Probe:**
 ![Detected Probe](runs/detect/predict/E300PREMP00002_00725_216_1flight_11100_2.jpg)
