@@ -34,6 +34,7 @@ This project implements a deep learning pipeline for detecting ultrasonic thickn
     <img src="runs/detect/predict3/E300PREMP00002_00725_216_1flight_11100_2.jpg" alt="Output with Detected Probes" width="300"/>
   </div>
   </div>
+  
   - **System Metrics:** Losses, Precision, Recall
 
 ---
