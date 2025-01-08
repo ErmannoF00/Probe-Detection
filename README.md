@@ -69,8 +69,8 @@ The repository consists of the following main directories and files:
 
 - **Clone the repository**:
   ```bash
-  git clone https://github.com/your-username/probe-detection-yolo.git
-  cd probe-detection-yolo  
+  git clone https://github.com/ErmannoF00/Probe-Detection.git
+  cd Probe-Detection
   ```
   
 - **Install dependencies**:
@@ -87,7 +87,7 @@ The repository consists of the following main directories and files:
      ```
   - To evaluate:
     ```bash
-    python pipeline.py --mode evaluate --weights trained_weights/best.pt  
+    python ProbeDetector_YOLO.py --mode evaluate --weights trained_weights/best.pt  
     ```
 
 ---
